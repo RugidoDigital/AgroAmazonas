@@ -74,7 +74,7 @@ loja.metodos = {
     obterItensLojaInicio: async () => {
         
         const urls = [
-            "http://127.0.0.1:5500/js/dados.js"
+            "https://agro-amazonas.vercel.app/js/dados.js"
             // https://www.produtoscampos.com.br/js/dados.js
         ];
         let MENU = null;
